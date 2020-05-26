@@ -1,19 +1,19 @@
 {
     "name": "react-native-local-module",
-    "version": "2.1.5",
+    "version": "1.0.0",
     "license": "MIT",
-    "description": "An unified permissions API for React Native on iOS and Android",
-    "author": "Mathieu Acthernoene <zoontek@gmail.com>",
-    "homepage": "https://github.com/react-native-community/react-native-local-module#readme",
+    "description": "A Sample Module",
+    "author": "Sanjeev Rao Lade <sanjeevrao.lade@gmail.com>",
+    "homepage": "https://github.com/react-native-local-module#readme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/react-native-community/react-native-local-module.git"
+        "url": "https://github.com/react-native-local-module.git"
     },
     "keywords": [
         "react-native",
         "react native",
-        "permission",
-        "authorization"
+        "module",
+        "library"
     ],
     "types": "lib/typescript/index.d.ts",
     "main": "lib/commonjs/index.js",
